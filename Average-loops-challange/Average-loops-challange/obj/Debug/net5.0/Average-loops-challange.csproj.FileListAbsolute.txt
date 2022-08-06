@@ -1,0 +1,16 @@
+C:\Users\danin\Downloads\Dev\C#\Average-loops-challange\Average-loops-challange\obj\Debug\net5.0\Average-loops-challange.csproj.AssemblyReference.cache
+C:\Users\danin\Downloads\Dev\C#\Average-loops-challange\Average-loops-challange\obj\Debug\net5.0\Average-loops-challange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danin\Downloads\Dev\C#\Average-loops-challange\Average-loops-challange\obj\Debug\net5.0\Average-loops-challange.AssemblyInfoInputs.cache
+C:\Users\danin\Downloads\Dev\C#\Average-loops-challange\Average-loops-challange\obj\Debug\net5.0\Average-loops-challange.AssemblyInfo.cs
+C:\Users\danin\Downloads\Dev\C#\Average-loops-challange\Average-loops-challange\obj\Debug\net5.0\Average-loops-challange.csproj.CoreCompileInputs.cache
+C:\Users\danin\Downloads\Dev\C#\Average-loops-challange\Average-loops-challange\bin\Debug\net5.0\Average-loops-challange.exe
+C:\Users\danin\Downloads\Dev\C#\Average-loops-challange\Average-loops-challange\bin\Debug\net5.0\Average-loops-challange.deps.json
+C:\Users\danin\Downloads\Dev\C#\Average-loops-challange\Average-loops-challange\bin\Debug\net5.0\Average-loops-challange.runtimeconfig.json
+C:\Users\danin\Downloads\Dev\C#\Average-loops-challange\Average-loops-challange\bin\Debug\net5.0\Average-loops-challange.runtimeconfig.dev.json
+C:\Users\danin\Downloads\Dev\C#\Average-loops-challange\Average-loops-challange\bin\Debug\net5.0\Average-loops-challange.dll
+C:\Users\danin\Downloads\Dev\C#\Average-loops-challange\Average-loops-challange\bin\Debug\net5.0\Average-loops-challange.pdb
+C:\Users\danin\Downloads\Dev\C#\Average-loops-challange\Average-loops-challange\obj\Debug\net5.0\Average-loops-challange.dll
+C:\Users\danin\Downloads\Dev\C#\Average-loops-challange\Average-loops-challange\obj\Debug\net5.0\refint\Average-loops-challange.dll
+C:\Users\danin\Downloads\Dev\C#\Average-loops-challange\Average-loops-challange\obj\Debug\net5.0\Average-loops-challange.pdb
+C:\Users\danin\Downloads\Dev\C#\Average-loops-challange\Average-loops-challange\obj\Debug\net5.0\Average-loops-challange.genruntimeconfig.cache
+C:\Users\danin\Downloads\Dev\C#\Average-loops-challange\Average-loops-challange\obj\Debug\net5.0\ref\Average-loops-challange.dll
