@@ -1,0 +1,16 @@
+C:\Users\danin\Downloads\Dev\C#\Array-challange1\Array-challange1\bin\Debug\net5.0\Array-challange1.exe
+C:\Users\danin\Downloads\Dev\C#\Array-challange1\Array-challange1\bin\Debug\net5.0\Array-challange1.deps.json
+C:\Users\danin\Downloads\Dev\C#\Array-challange1\Array-challange1\bin\Debug\net5.0\Array-challange1.runtimeconfig.json
+C:\Users\danin\Downloads\Dev\C#\Array-challange1\Array-challange1\bin\Debug\net5.0\Array-challange1.runtimeconfig.dev.json
+C:\Users\danin\Downloads\Dev\C#\Array-challange1\Array-challange1\bin\Debug\net5.0\Array-challange1.dll
+C:\Users\danin\Downloads\Dev\C#\Array-challange1\Array-challange1\bin\Debug\net5.0\Array-challange1.pdb
+C:\Users\danin\Downloads\Dev\C#\Array-challange1\Array-challange1\obj\Debug\net5.0\Array-challange1.csproj.AssemblyReference.cache
+C:\Users\danin\Downloads\Dev\C#\Array-challange1\Array-challange1\obj\Debug\net5.0\Array-challange1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danin\Downloads\Dev\C#\Array-challange1\Array-challange1\obj\Debug\net5.0\Array-challange1.AssemblyInfoInputs.cache
+C:\Users\danin\Downloads\Dev\C#\Array-challange1\Array-challange1\obj\Debug\net5.0\Array-challange1.AssemblyInfo.cs
+C:\Users\danin\Downloads\Dev\C#\Array-challange1\Array-challange1\obj\Debug\net5.0\Array-challange1.csproj.CoreCompileInputs.cache
+C:\Users\danin\Downloads\Dev\C#\Array-challange1\Array-challange1\obj\Debug\net5.0\Array-challange1.dll
+C:\Users\danin\Downloads\Dev\C#\Array-challange1\Array-challange1\obj\Debug\net5.0\refint\Array-challange1.dll
+C:\Users\danin\Downloads\Dev\C#\Array-challange1\Array-challange1\obj\Debug\net5.0\Array-challange1.pdb
+C:\Users\danin\Downloads\Dev\C#\Array-challange1\Array-challange1\obj\Debug\net5.0\Array-challange1.genruntimeconfig.cache
+C:\Users\danin\Downloads\Dev\C#\Array-challange1\Array-challange1\obj\Debug\net5.0\ref\Array-challange1.dll
